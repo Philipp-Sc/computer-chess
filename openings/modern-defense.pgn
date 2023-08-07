@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "?"]
+[Date "2023.02.27"]
+[Round "1"]
+[White "Stockfish dev-20230209-05dea2ca"]
+[Black "Stockfish dev-20230209-05dea2ca"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[GameDuration "00:03:00"]
+[GameEndTime "2023-02-27T09:01:36.510 CET"]
+[GameStartTime "2023-02-27T08:58:35.909 CET"]
+[Opening "Queen's pawn game"]
+[PlyCount "109"]
+[TimeControl "2/move"]
+
+1. e4 g6
